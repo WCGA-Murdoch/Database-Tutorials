@@ -1,4 +1,4 @@
-# I. Oat genome browser tutotials
+# I. Oat genome browser tutorials
 
 ### 1. The genome browsers can be accessed using the following link
 
@@ -38,22 +38,22 @@ http://146.118.69.89/jbrowse/
 
 ### 6. Obtain gene sequences  
 
-*Gene sequences can be obtained by clicking in the gene annotation*  
+**Gene sequences can be obtained by clicking in the gene annotation**  
 
 <img src="img/jbrowse/09a_gene_sequence_get.png" alt="hi" width="800" class="inline"/>
 
-*Then select the type of sequence you want to get, then hit "Copy as plaintext"*  
+**Then select the type of sequence you want to get, then hit "Copy as plaintext"**  
 
 <img src="img/jbrowse/09b_gene_sequence_get.png" alt="hi" width="800" class="inline"/>
 
 ### 7. Reference genome bases view  
 
-*Individual basepair can be view by zooming in the reference tracks*  
+**Individual base-pair can be view by zooming in the reference tracks**  
 
 <img src="img/jbrowse/10_base_viewer.png" alt="hi" width="800" class="inline"/>
 
 ### 8. Genetic variants view  
 
-*Genetic variants, including SNP and Indel, can be view by clicking on the variant positions*  
+**Genetic variants, including SNP and Indel, can be view by clicking on the variant positions**
 
 <img src="img/jbrowse/11_variant_information.png" alt="hi" width="800" class="inline"/>

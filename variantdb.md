@@ -17,11 +17,11 @@ http://146.118.69.89/search/
 *- Chromosome:position to query 2kb up and downstream (chr1C:123456)*
 *- Chromosome:start+length to query an exact region from start position (chr1D:123+500)*
 
-<img src="img/oatdb/01_db_select.png" alt="hi" width="800" class="inline"/>
+<img src="img/oatdb/02_search_position.png" alt="hi" width="800" class="inline"/>
 
 ### 3. The result is display in a table format
 
-<img src="img/oatdb/02_search_position.png" alt="hi" width="800" class="inline"/>
+<img src="img/oatdb/03_result.png" alt="hi" width="800" class="inline"/>
 
 ### 4. The sequence around the variant can be retrieve using the sequence icon next to the variant ID
 

@@ -10,7 +10,7 @@ http://146.118.69.89/jbrowse/
 
 ### 3. Select the chromosome you'd like to view then "Open"
 
-<img src="img/jbrowse/03_select_chomosome.png" alt="hi" width="800" class="inline"/>
+<img src="img/jbrowse/03_select_chomosome_barley.png" alt="hi" width="800" class="inline"/>
 
 <img src="img/jbrowse/04_open_view.png" alt="hi" width="800" class="inline"/>
 

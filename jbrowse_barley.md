@@ -6,7 +6,7 @@ http://146.118.69.89/jbrowse/
 
 ### 2. First, select the genome from the dropdown list  
 
-<img src="img/jbrowse/02_select_genome.png" alt="hi" width="800" class="inline"/>
+<img src="img/jbrowse/02_select_genome_barley.png" alt="hi" width="800" class="inline"/>
 
 ### 3. Select the chromosome you'd like to view then "Open"
 

@@ -12,7 +12,7 @@ http://146.118.69.89/jbrowse/
 
 <img src="img/jbrowse/03_select_chomosome_barley.png" alt="hi" width="800" class="inline"/>
 
-<img src="img/jbrowse/04_open_view.png" alt="hi" width="800" class="inline"/>
+<img src="img/jbrowse/04_open_view_barley.png" alt="hi" width="800" class="inline"/>
 
 
 ### 4. Select the tracks using the "Open track selector" button

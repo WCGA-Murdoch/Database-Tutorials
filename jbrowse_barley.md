@@ -31,7 +31,7 @@ http://146.118.69.89/jbrowse/
 
 **Select the region manually and zoom in**
 
-<img src="img/jbrowse/08_region_zoom.png" alt="hi" width="800" class="inline"/>
+<img src="img/jbrowse/08_region_zoom_barley.png" alt="hi" width="800" class="inline"/>
 
 ### 6. Obtain gene sequences  
 

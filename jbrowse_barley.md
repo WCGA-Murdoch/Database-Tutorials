@@ -37,11 +37,11 @@ http://146.118.69.89/jbrowse/
 
 **Gene sequences can be obtained by clicking in the gene annotation**  
 
-<img src="img/jbrowse/09a_gene_sequence_get.png" alt="hi" width="800" class="inline"/>
+<img src="img/jbrowse/09a_gene_sequence_get_barley.png" alt="hi" width="800" class="inline"/>
 
 **Then select the type of sequence you want to get, then hit "Copy as plaintext"**  
 
-<img src="img/jbrowse/09b_gene_sequence_get.png" alt="hi" width="800" class="inline"/>
+<img src="img/jbrowse/09b_gene_sequence_get_barley.png" alt="hi" width="800" class="inline"/>
 
 ### 7. Reference genome bases view  
 

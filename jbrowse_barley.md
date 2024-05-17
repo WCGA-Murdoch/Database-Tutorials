@@ -17,9 +17,7 @@ http://146.118.69.89/jbrowse/
 
 ### 4. Select the tracks using the "Open track selector" button
 
-<img src="img/jbrowse/05_select_tracks.png" alt="hi" width="800" class="inline"/>
-
-<img src="img/jbrowse/05_select_tracks_2.png" alt="hi" width="800" class="inline"/>
+<img src="img/jbrowse/05_select_tracks_barley.png" alt="hi" width="800" class="inline"/>
 
 ### 5. You can manually input the region you want to search
 

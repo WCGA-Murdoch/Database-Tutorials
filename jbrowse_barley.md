@@ -25,7 +25,7 @@ http://146.118.69.89/jbrowse/
 
 <img src="img/jbrowse/06_region_search_barley.png" alt="hi" width="800" class="inline"/>
 
-**Or search using Gene ID**
+**Or search using Gene ID (need to make functional and update) **
 
 <img src="img/jbrowse/07_geneid_search.png" alt="hi" width="800" class="inline"/>
 

@@ -19,7 +19,7 @@ http://146.118.69.89/jbrowse/
 
 <img src="img/jbrowse/05_select_tracks_barley.png" alt="hi" width="800" class="inline"/>
 
-### 5. You can manually input the region you want to search or select a region with the mouse
+### 5. You can manually input the region you want to search
 
 *Using the chr1H:123..456 format*    
 

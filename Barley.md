@@ -15,7 +15,16 @@ The Barley pan genome browsers currently support:
 **TO DO:**  
 * Add SNP matrix of current Morex V3. Only Morex V1 currently available for variant DB.
 
-# II. Barley variant database
+# II. Barley panache database
+
+[The Barley panache browsers](barley_panache.md) was built from the barley pangenome graph (generated from [PGGB](https://github.com/pangenome/pggb) and [Panache](https://github.com/SouthGreenPlatform/panache) of 76 Barley accessions.
+
+The Barley panache supports:
+* Gene search by gene ID 
+* Genomic region search
+* Sorting by gene PAV, local PAV, phylogeny, and alphanumeric
+
+# III. Barley variant database
 
 [The Barley variant databases](variantdb.md) contains approximately XX million SNPs and XX million InDels, from a collection of XX Balrey accessions.
 These variants were called based on Morex v1 sequence and annotated using Morex v1 annotation.

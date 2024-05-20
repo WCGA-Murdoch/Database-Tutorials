@@ -6,7 +6,6 @@ http://www.barleypangenome.com/barley_panache_v2/
 
 ### 2. First, select the genome from the dropdown list  
 
-
 #### Wiki home: https://github.com/SouthGreenPlatform/panache/wiki
 
 #### Functionality: https://github.com/SouthGreenPlatform/panache/wiki/Functionalities-tour
@@ -41,6 +40,6 @@ http://www.barleypangenome.com/barley_panache_v2/
 
 <img src="img/panache/06_sorted_by_PAV.png" alt="hi" width="800" class="inline"/>
 
-#### h)	The percentage of presence/absence of HPT2 across each genome is calculated
+#### h)	The percentage of presence/absence of HPT2 across each genome is calculated and displayed
 
 <img src="img/panache/07_percentage_PAV.png" alt="hi" width="800" class="inline"/>

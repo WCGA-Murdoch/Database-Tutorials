@@ -19,55 +19,28 @@ http://www.barleypangenome.com/barley_panache_v2/
 
 #### b)	From the menu go to ‘Jump to gene position’ and load up the HPT2 gene (HORVU.MOREX.r3.2HG0208140):
 
-<img src="img/jbrowse/02_select_genome_barley.png" alt="hi" width="800" class="inline"/>
+<img src="img/panache/01_gene_positon.png" alt="hi" width="800" class="inline"/>
 
-### 3. Select the chromosome you'd like to view then "Open"
+#### c)	Locate the HPT2 gene. 
 
-<img src="img/jbrowse/03_select_chomosome_barley.png" alt="hi" width="800" class="inline"/>
+<img src="img/panache/02_identify_gene.png" alt="hi" width="800" class="inline"/>
 
-<img src="img/jbrowse/04_open_view_barley.png" alt="hi" width="800" class="inline"/>
+#### d)	From the menu select ‘gene presence status’. Note: if selecting ‘Phylogenetic tree’ the genomes are sorted based on the phylogenetic tree, as determined by mashtree (mash distance).
 
+<img src="img/panache/03_select_sort_by_PAV.png" alt="hi" width="800" class="inline"/>
 
-### 4. Select the tracks using the "Open track selector" button
+#### e)	Put the HTP2 gene ID into the annotation search (multiple genes can be added).
 
-*Note: included are tracks for converting from different annotation versions (e.g. Morex v1 and v2 to v3)* 
+<img src="img/panache/04_gene_to_sort_by.png" alt="hi" width="800" class="inline"/>
 
-<img src="img/jbrowse/05_select_tracks_barley.png" alt="hi" width="800" class="inline"/>
+#### f)	From the menu select ‘Sort with tags’
 
-### 5. You can manually input the region you want to search
+<img src="img/panache/05_sort_with_tags.png" alt="hi" width="800" class="inline"/>
 
-*Using the chr1H:123..456 format*    
+#### g)	The genomes are now sorted by the HPT2 gene’s presence/absence status
 
-<img src="img/jbrowse/06_region_search_barley.png" alt="hi" width="800" class="inline"/>
+<img src="img/panache/06_sorted_by_PAV.png" alt="hi" width="800" class="inline"/>
 
-**Or search using Gene ID (need to make functional and update) **
+#### h)	The percentage of presence/absence of HPT2 across each genome is calculated
 
-<img src="img/jbrowse/07_geneid_search_barley.png" alt="hi" width="800" class="inline"/>
-
-**Select the region manually and zoom in**
-
-<img src="img/jbrowse/08_region_zoom_barley.png" alt="hi" width="800" class="inline"/>
-
-### 6. Obtain gene sequences  
-
-**Gene sequences can be obtained by clicking in the gene annotation**  
-
-<img src="img/jbrowse/09a_gene_sequence_get_barley.png" alt="hi" width="800" class="inline"/>
-
-**Then select the type of sequence you want to get, then hit "Copy as plaintext"**  
-
-<img src="img/jbrowse/09b_gene_sequence_get_barley.png" alt="hi" width="800" class="inline"/>
-
-### 7. Reference genome bases view  
-
-**Individual base-pair can be view by zooming in the reference tracks**  
-
-<img src="img/jbrowse/10_base_viewer_barley.png" alt="hi" width="800" class="inline"/>
-
-### 8. Genetic variants view  
-
-**Genetic variants, including SNP and Indel, can be view by clicking on the variant positions**
-
-To be added in later
-
-<img src="img/jbrowse/11_variant_information_barley.png" alt="hi" width="800" class="inline"/>
+<img src="img/panache/07_percentage_PAV.png" alt="hi" width="800" class="inline"/>

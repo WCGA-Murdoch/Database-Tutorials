@@ -22,7 +22,7 @@ http://www.barleypangenome.com/barley_panache_v2/
 
 #### c)	Locate the HPT2 gene. 
 
-<img src="img/panache/02_identify_gene.png" alt="hi" width="800" class="inline"/>
+<img src="img/panache/02_identify_gene.png" alt="hi" width="1200" class="inline"/>
 
 #### d)	From the menu select ‘gene presence status’. Note: if selecting ‘Phylogenetic tree’ the genomes are sorted based on the phylogenetic tree, as determined by mashtree (mash distance).
 

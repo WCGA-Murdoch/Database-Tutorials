@@ -29,7 +29,7 @@ http://146.118.69.89/jbrowse/
 
 **Or search using Gene ID (need to make functional and update) **
 
-<img src="img/jbrowse/07_geneid_search.png" alt="hi" width="800" class="inline"/>
+<img src="img/jbrowse/07_geneid_search_barley.png" alt="hi" width="800" class="inline"/>
 
 **Select the region manually and zoom in**
 

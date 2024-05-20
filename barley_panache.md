@@ -18,7 +18,7 @@ http://www.barleypangenome.com/barley_panache_v2/
 
 #### b)	From the menu go to ‘Jump to gene position’ and load up the HPT2 gene (HORVU.MOREX.r3.2HG0208140):
 
-<img src="img/panache/01_gene_positon.png" alt="hi" width="800" class="inline"/>
+<img src="img/panache/01_gene_positon.png" alt="hi" width="400" class="inline"/>
 
 #### c)	Locate the HPT2 gene. 
 

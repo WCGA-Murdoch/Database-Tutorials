@@ -38,7 +38,7 @@ http://www.barleypangenome.com/barley_panache_v2/
 
 #### g)	The genomes are now sorted by the HPT2 gene’s presence/absence status
 
-<img src="img/panache/06_sorted_by_PAV.png" alt="hi" width="400" class="inline"/>
+<img src="img/panache/06_sorted_by_PAV.png" alt="hi" width="1200" class="inline"/>
 
 #### h)	The percentage of presence/absence of HPT2 across each genome is calculated and displayed
 

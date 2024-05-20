@@ -26,20 +26,20 @@ http://www.barleypangenome.com/barley_panache_v2/
 
 #### d)	From the menu select ‘gene presence status’. Note: if selecting ‘Phylogenetic tree’ the genomes are sorted based on the phylogenetic tree, as determined by mashtree (mash distance).
 
-<img src="img/panache/03_select_sort_by_PAV.png" alt="hi" width="800" class="inline"/>
+<img src="img/panache/03_select_sort_by_PAV.png" alt="hi" width="400" class="inline"/>
 
 #### e)	Put the HTP2 gene ID into the annotation search (multiple genes can be added).
 
-<img src="img/panache/04_gene_to_sort_by.png" alt="hi" width="800" class="inline"/>
+<img src="img/panache/04_gene_to_sort_by.png" alt="hi" width="400" class="inline"/>
 
 #### f)	From the menu select ‘Sort with tags’
 
-<img src="img/panache/05_sort_with_tags.png" alt="hi" width="800" class="inline"/>
+<img src="img/panache/05_sort_with_tags.png" alt="hi" width="400" class="inline"/>
 
 #### g)	The genomes are now sorted by the HPT2 gene’s presence/absence status
 
-<img src="img/panache/06_sorted_by_PAV.png" alt="hi" width="800" class="inline"/>
+<img src="img/panache/06_sorted_by_PAV.png" alt="hi" width="400" class="inline"/>
 
 #### h)	The percentage of presence/absence of HPT2 across each genome is calculated and displayed
 
-<img src="img/panache/07_percentage_PAV.png" alt="hi" width="800" class="inline"/>
+<img src="img/panache/07_percentage_PAV.png" alt="hi" width="400" class="inline"/>

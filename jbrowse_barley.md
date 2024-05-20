@@ -55,4 +55,6 @@ http://146.118.69.89/jbrowse/
 
 **Genetic variants, including SNP and Indel, can be view by clicking on the variant positions**
 
-<img src="img/jbrowse/11_variant_information.png" alt="hi" width="800" class="inline"/>
+To be added in later
+
+<img src="img/jbrowse/11_variant_information_barley.png" alt="hi" width="800" class="inline"/>

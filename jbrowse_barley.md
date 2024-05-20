@@ -49,7 +49,7 @@ http://146.118.69.89/jbrowse/
 
 **Individual base-pair can be view by zooming in the reference tracks**  
 
-<img src="img/jbrowse/10_base_viewer.png" alt="hi" width="800" class="inline"/>
+<img src="img/jbrowse/10_base_viewer_barley.png" alt="hi" width="800" class="inline"/>
 
 ### 8. Genetic variants view  
 

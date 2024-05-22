@@ -4,7 +4,7 @@
 
 http://www.barleypangenome.com/barley_panache_v2/
 
-### 2. First, select the genome from the dropdown list  
+### 2. Additional documentation on Panache can be found here  
 
 #### Wiki home: https://github.com/SouthGreenPlatform/panache/wiki
 
@@ -12,7 +12,7 @@ http://www.barleypangenome.com/barley_panache_v2/
 
 #### PAV Sorting: https://github.com/SouthGreenPlatform/panache/wiki/Sorting-options
 
-#### Example use case identify PAV of HPT2:
+### 3. Example use case identify PAV of HPT2:
 
 #### a)	Open Barley Panache and wait for the tracks to load in (can take a while depending on server load and data size).
 

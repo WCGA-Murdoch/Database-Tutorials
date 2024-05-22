@@ -12,7 +12,7 @@ http://www.barleypangenome.com/barley_panache_v2/
 
 #### PAV Sorting: https://github.com/SouthGreenPlatform/panache/wiki/Sorting-options
 
-### 3. Example use case identify PAV of HPT2:
+### 3. Example use case to identify PAV of the HPT2 gene:
 
 #### a)	Open Barley Panache and wait for the tracks to load in (can take a while depending on server load and data size).
 

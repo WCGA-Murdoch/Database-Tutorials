@@ -13,9 +13,12 @@ http://146.118.69.89/search/
 
 **For physical position query, different format can be used**
 
-*- Chromosome:start-end (chr1A:123-456)*
-*- Chromosome:position to query 2kb up and downstream (chr1C:123456)*
-*- Chromosome:start+length to query an exact region from start position (chr1D:123+500)* 
+*- Chromosome:start-end (chr1A:123-456)* 
+
+*- Chromosome:position to query 2kb up and downstream (chr1C:123456)*  
+
+*- Chromosome:start+length to query an exact region from start position (chr1D:123+500)*  
+
 
 <img src="img/oatdb/02_search_position.png" alt="hi" width="800" class="inline"/>
 

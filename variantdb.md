@@ -2,7 +2,7 @@
 
 ### 1. The variant database can be accessed using the following link
 
-http://146.118.69.89/search/
+http://database.oatpangenome.com/search/
 
 **Select Oatvar from the database list**
 
@@ -13,7 +13,7 @@ http://146.118.69.89/search/
 
 **For physical position query, different format can be used**
 
-*- Chromosome:start-end (chr1A:123-456)* 
+*- Chromosome:start-end (chr1A:123-456)*
 
 *- Chromosome:position to query 2kb up and downstream (chr1C:123456)*  
 

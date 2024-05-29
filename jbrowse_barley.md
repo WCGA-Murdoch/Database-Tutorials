@@ -2,7 +2,7 @@
 
 ### 1. The genome browsers can be accessed using the following link
 
-http://146.118.69.89/jbrowse/
+http://database.barleypangenome.com/jbrowse/
 
 ### 2. First, select the genome from the dropdown list  
 

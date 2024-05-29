@@ -2,7 +2,7 @@
 
 ### 1. The genome browsers can be accessed using the following link
 
-http://146.118.69.89/jbrowse/
+http://database.barleypangenome.com/barley76/
 
 ### 2. First, select the genome from the dropdown list  
 
@@ -50,11 +50,3 @@ http://146.118.69.89/jbrowse/
 **Individual base-pair can be view by zooming in the reference tracks**  
 
 <img src="img/jbrowse/10_base_viewer_barley.png" alt="hi" width="800" class="inline"/>
-
-### 8. Genetic variants view  
-
-**Genetic variants, including SNP and Indel, can be view by clicking on the variant positions**
-
-To be added in later
-
-<img src="img/jbrowse/11_variant_information_barley.png" alt="hi" width="800" class="inline"/>

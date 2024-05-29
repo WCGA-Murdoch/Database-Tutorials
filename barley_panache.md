@@ -2,7 +2,7 @@
 
 ### 1. The barley panache browser can be accessed using the following link
 
-http://www.barleypangenome.com/barley_panache_v2/
+http://database.barleypangenome.com/barley_panache/
 
 ### 2. Additional documentation on Panache can be found here  
 

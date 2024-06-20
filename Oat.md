@@ -3,8 +3,8 @@ Tutorials for Oat genome browser and variant database
 
 # I. Oat genome browser  
 
-[The Oat genome browsers](jbrowse.md) were built based on [Jbrowse v2](https://jbrowse.org/jb2/) with whole genome sequences and annotations of 24 Oat accessions.
-Information about navigating the genome browsers can be found [here](jbrowse.md)
+[The Oat genome browsers](jbrowse_oat.md) were built based on [Jbrowse v2](https://jbrowse.org/jb2/) with whole genome sequences and annotations of 24 Oat accessions.
+Information about navigating the genome browsers can be found [here](jbrowse_oat.md)
 
 The Oat pan genome browsers currently support:
 * Genes lookup by gene IDs  
@@ -23,4 +23,11 @@ These variants were called based on PepsiCo OT3098 Oat v2 sequence and annotated
 The variant database currently support:
 * Query using physical position or gene IDs
 * Extraction of genetic information around the variants for primers designing
-* Result table export to csv format 
+* Result table export to csv format
+
+# III. Oat pan-transcriptome database 
+
+[The Oat pan-transcriptome databases](oat_pantranscriptome.md) contains TPMs value of approximately 130.000 genes based on GS7 annotations. The current database include the gene expression data (TPM values) of 24 oat accessions across 5 different tissues. Gene functional annotations, as well as GO and KEGG IDs are also included if available.
+
+**TO DO:**  
+* Gene network discovery based on co-expression analysis.

@@ -13,4 +13,4 @@
 
 * [Oat genome browser](jbrowse_oat.md) - Genome browser of the Oat pangenome collection
 * [Oat variant database](variantdb.md) - Collection of 350 million SNPs and 35 million InDels from 564 Oat accessions.
-* [Oat pan-transcriptome databases](oat_pantranscriptome.md) contains TPMs value of approximately 130.000 genes (based on GS7 annotations) across 24 oat accessions and 5 different tissues. 
+* [Oat pan-transcriptome databases](oat_pantranscriptome.md) contains TPMs value of approximately 130.000 genes (based on GS7 annotations) across 24 oat accessions and 6 different tissues. 

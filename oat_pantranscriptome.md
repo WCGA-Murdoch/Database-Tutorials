@@ -4,6 +4,8 @@
 
 http://database.oatpangenome.com/oat_transcriptome/
 
+**If navigating from the home page, it can be accessed through Oat Tools > Pan Transciptome** 
+
 ### 2. First, input the GS7 gene ID to the search bar  
 
 <img src="img/oat_transcriptome/01_geneid_search.png" alt="hi" width="800" class="inline"/>

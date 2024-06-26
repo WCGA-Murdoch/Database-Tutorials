@@ -27,7 +27,7 @@ The variant database currently support:
 
 # III. Oat pan-transcriptome database
 
-[The Oat pan-transcriptome databases](oat_pantranscriptome.md) contains TPMs value of approximately 130.000 genes based on GS7 annotations. The current database include the gene expression data (TPM values) of 24 oat accessions across 6 different tissues. Gene functional annotations, as well as GO and KEGG IDs are also included if available.
+[The Oat pan-transcriptome databases](oat_pantranscriptome.md) contains TPMs value of approximately 130,000 genes based on GS7 annotations. The current database include the gene expression data (TPM values) of 24 oat accessions across 6 different tissues. Gene functional annotations, as well as GO and KEGG IDs are also included if available.
 
 **TO DO:**  
 * Custom sort function based on TPM, origins, etc.

@@ -6,6 +6,47 @@ This section include the Introduction and Tutorials for the Barley pangenome too
 
 # II. Current available data
 
+## 1. Genome assembly and annotation
+
+### a. Barley Pangenome phase 2 assemblies
+
+Including genome assemblies and annotations from 76 barley accessions. Detailed accession list can be seen [here](Link)
+
+### b. Australian Barley assemblies
+
+Including genome assemblies and annotations from XX Australian Barleys. Detailed accession list can be seen [here](Link)
+
+## 2. Genetic variants
+
+Genetic variants including InDels and SNPs were obtained from a wide range of datasets, including:
+
+### a. Approximately 1,000 barley accession from a world-wide collection
+
+Detailed accession list can be seen [here](https://ftp.ebi.ac.uk/biostudies/fire/E-MTAB-/362/E-MTAB-7362/Files/E-MTAB-7362.sdrf.txt).
+
+Genetic variants from this dataset:
+
+*Low coverage - whole genome sequence
+
+*Targeted enrichment of gene regions associated with flowering time
+
+*Variants from Diversity Array Technology Sequence (DArT-seq)
+
+### b. Pan-genome phase 2 collection
+
+Including variant data from 76 barley accessions from the pan-genome graph, with about 10 million InDels and over 80 million SNPs. Detailed accession list can be seen [here](Link)
+
+### c. Australian Barley collection
+
+Including variant data from 90 barley accessions related to Australian Barley germplasm. Detailed accession list can be seen [here](Link)
+
+## 3. Pan-genomic Present/Absent variations
+
+The Pangenome Present/Absent variations (PAV) data were obtained from ODGI and loaded into Panache for interactive browsing. Details about Panache can be located [here](Link)
+
+## 4. Pan-transcriptome data
+
+
 
 # III. Tools overview
 

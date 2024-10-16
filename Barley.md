@@ -16,7 +16,7 @@ Including genome assemblies and annotations from 76 barley accessions. Detailed 
 
 **b. Australian Barley assemblies**
 
-Including genome assemblies and annotations from XX Australian Barleys. Detailed accession list can be seen [here](/info/AUbarley_accessions.md)
+Including genome assemblies and annotations from 22 Australian Barleys. Detailed accession list can be seen [here](/info/AUbarley_accessions.md)
 
 ### 2. Genetic variants
 
@@ -50,7 +50,7 @@ The Pangenome Present/Absent variations (PAV) data were obtained from ODGI and l
 
 The Barley Pan-transcriptome database is obtained 5 different tissues of 20 Barley accessions. Moreinformation about the data can be seen from the below publication:
 
-[A barley pan-transcriptome reveals layers of genotype-dependent transcriptional complexity] (https://www.researchsquare.com/article/rs-3787876/v1)
+[A barley pan-transcriptome reveals layers of genotype-dependent transcriptional complexity](https://www.researchsquare.com/article/rs-3787876/v1)
 
 ## <span style="color:#023047"> III. Tools overview </span>
 
@@ -58,8 +58,8 @@ The Barley Pan-transcriptome database is obtained 5 different tissues of 20 Barl
 
 For a detailed instruction about using the Barley genome browser, please refer to this link: [The Barley genome browsers](tools/barley_jbrowse.md)
 
-[The Barley genome browsers](jbrowse.md) were built based on [Jbrowse v2](https://jbrowse.org/jb2/) with whole genome sequences and annotations of 76 Barley accessions.
-Information about navigating the genome browsers can be found [here](toolsbarley_jbrowse.md)
+The Barley genome browsers were built based on [Jbrowse v2](https://jbrowse.org/jb2/) with whole genome sequences and annotations of 76 Barley accessions.
+Information about navigating the genome browsers can be found [here](tools/barley_jbrowse.md)
 
 **a. Features**
 
@@ -98,7 +98,7 @@ Information about navigating the genome browsers can be found [here](toolsbarley
 
 For a detailed instruction about using the Barley panache database, please refer to this link: [The Barley panache browsers](tools/barley_panache.md)  
 
-[The Barley panache browsers](tools/barley_panache.md) was built from the barley pangenome graph (generated from [PGGB](https://github.com/pangenome/pggb) and [Panache](https://github.com/SouthGreenPlatform/panache) of 76 Barley accessions.
+The Barley panache browsers was built from the barley pangenome graph (generated from [PGGB](https://github.com/pangenome/pggb) and [Panache](https://github.com/SouthGreenPlatform/panache) of 76 Barley accessions.
 
 **a. Features**
 

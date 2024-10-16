@@ -19,7 +19,6 @@
 | Maximus    | AU pangenome |
 | Mundah     | AU pangenome |
 | Prior      | AU pangenome |
-| RGT_Planet | Pan-pangenome phase 2|
 | Schooner   | AU pangenome |
 | Stirling   | AU pangenome |
 | Vlamingh   | AU pangenome |

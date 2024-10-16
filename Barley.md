@@ -10,7 +10,7 @@ This section include the Introduction and Tutorials for the Barley pangenome too
 
 **a. Barley Pangenome phase 2 assemblies**
 
-Including genome assemblies and annotations from 76 barley accessions. Detailed accession list can be seen [here](Link)
+Including genome assemblies and annotations from 76 barley accessions. Detailed accession list can be seen [here](/info/pangenome_accessions.md)
 
 **b. Australian Barley assemblies**
 
@@ -34,7 +34,7 @@ Genetic variants from this dataset:
 
 **b. Pan-genome phase 2 collection**
 
-Including variant data from 76 barley accessions from the pan-genome graph, with about 10 million InDels and over 80 million SNPs. Detailed accession list can be seen [here](Link)
+Including variant data from 76 barley accessions from the pan-genome graph, with about 10 million InDels and over 80 million SNPs. Detailed accession list can be seen [here](/info/pangenome_accessions.md)
 
 **c. Australian Barley collection**
 

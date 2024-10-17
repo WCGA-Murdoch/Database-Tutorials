@@ -12,6 +12,8 @@ Alternatively, you can access the registration form using this [direct link](htt
 
 Please fill the form with your information and finish by click register.  
 
+*Please note a combination of character and number is required for password*  
+
 <img src="img/registration/02_registration_form.png" alt="hi" width="800" class="inline"/>
 
 After finish registering, you can try logging in using your registered username and password.  

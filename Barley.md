@@ -64,7 +64,7 @@ For more information about each tool and available data, please refer to the bel
 
 For a detailed instruction about using the Barley genome browser, please refer to this link: [The Barley genome browsers](tools/barley_jbrowse.md)
 
-The Barley genome browsers were built based on [Jbrowse v2](https://jbrowse.org/jb2/) with whole genome sequences and annotations of 76 Barley accessions.
+The Barley genome browsers were built based on [Jbrowse v2](https://jbrowse.org/jb2/) with whole genome sequences and annotations of 76 Barley accessions in the Barley pangenome phase 2 collection and 22 accessions in the Australian barley collecion.
 Information about navigating the genome browsers can be found [here](tools/barley_jbrowse.md)
 
 **a. Features**

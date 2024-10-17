@@ -4,7 +4,7 @@ This section include the Introduction and Tutorials for the Barley pangenome too
 
 ## <span style="color:#023047"> I. Introduction </span>
 
-Pan-genomic resources are getting more and more popular since they cover a wider range of genetic information compared to single references. At the Western Crop Genetics Alliance, we utilised cutting-edge sequencing technologies to obtain high-quality sequences from a wide range of commercial and wild barley accessions. The sequence data was used to generate high-quality genome assemblies, capture genetic variants and construct reference pan-genome graphs. These information were put together to form an interactive and searchable database, which could be made available to breeders to improve the genetic selection process and deliver improved varieties to growers across Australia.
+<div style="text-align: justify;"> Pan-genomic resources are getting more and more popular since they cover a wider range of genetic information compared to single references. At the Western Crop Genetics Alliance, we utilised cutting-edge sequencing technologies to obtain high-quality sequences from a wide range of commercial and wild barley accessions. The sequence data was used to generate high-quality genome assemblies, capture genetic variants and construct reference pan-genome graphs. These information were put together to form an interactive and searchable database, which could be made available to breeders to improve the genetic selection process and deliver improved varieties to growers across Australia.</div>
 
 ## <span style="color:#023047"> II. Current available data </span>
 
@@ -64,7 +64,8 @@ For more information about each tool and available data, please refer to the bel
 
 For a detailed instruction about using the Barley genome browser, please refer to this link: [The Barley genome browsers](tools/barley_jbrowse.md)
 
-The Barley genome browsers were built based on [Jbrowse v2](https://jbrowse.org/jb2/) with whole genome sequences and annotations of 76 Barley accessions in the Barley pangenome phase 2 collection and 22 accessions in the Australian barley collecion.
+The Barley genome browsers were built based on [Jbrowse v2](https://jbrowse.org/jb2/) with whole genome sequences and annotations of 76 Barley accessions in the Barley pangenome phase 2 collection and 22 accessions in the Australian barley collection.
+
 Information about navigating the genome browsers can be found [here](tools/barley_jbrowse.md)
 
 **a. Features**
@@ -128,7 +129,7 @@ For a detailed instruction about using the Barley variant database, please refer
 
 **b. Data currently available**
 
-[The Barley variant databases](tools/barley_variantdb.md) contains approximately 54 million SNPs and 3.6 million InDels, from a collection of 21 Balrey accessions.
+[The Barley variant databases](tools/barley_variantdb.md) contains approximately 54 million SNPs and 3.6 million InDels, from a collection of 21 Barley accessions.
 These variants were called based on Morex v1 sequence and annotated using Morex v1 annotation.
 
 ### 5. Barley Linear Pan-transcriptome database

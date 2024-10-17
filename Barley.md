@@ -54,7 +54,13 @@ The Barley Pan-transcriptome database is obtained 5 different tissues of 20 Barl
 
 ## <span style="color:#023047"> III. Tools overview </span>
 
-### 1. Barley genome browser  
+### 1. Getting start
+
+The WCGA barley pangenome database can be accessed using this [link](database.barleypangenome.com)  
+To start using the WCGA barley pangenome database, you need to register an account. Please refer to this [link](tools/registration.md) for information about the registration process.  
+For more information about each tool and available data, please refer to the below sections.  
+
+### 2. Barley genome browser  
 
 For a detailed instruction about using the Barley genome browser, please refer to this link: [The Barley genome browsers](tools/barley_jbrowse.md)
 
@@ -94,7 +100,7 @@ Information about navigating the genome browsers can be found [here](tools/barle
 
 * Variant data of [22 Australian barley with genome assemblies](/info/AUbarley_accessions.md)  
 
-### 2. Barley panache database
+### 3. Barley panache database
 
 For a detailed instruction about using the Barley panache database, please refer to this link: [The Barley panache browsers](tools/barley_panache.md)  
 
@@ -110,7 +116,7 @@ The Barley panache browsers was built from the barley pangenome graph (generated
 
 * PAV data of [76 barley in the pangenome collection](/info/pangenome_accessions.md)  
 
-### 3. Barley variant database
+### 4. Barley variant database
 
 For a detailed instruction about using the Barley variant database, please refer to this link: [The Barley variant databases](tools/barley_variantdb.md)
 
@@ -125,7 +131,7 @@ For a detailed instruction about using the Barley variant database, please refer
 [The Barley variant databases](tools/barley_variantdb.md) contains approximately 54 million SNPs and 3.6 million InDels, from a collection of 21 Balrey accessions.
 These variants were called based on Morex v1 sequence and annotated using Morex v1 annotation.
 
-### 4. Barley Linear Pan-transcriptome database
+### 5. Barley Linear Pan-transcriptome database
 
 Detailed instruction about using the [Barley Linear Pan-transcriptome database](tools/barley_panbart20.md)
 

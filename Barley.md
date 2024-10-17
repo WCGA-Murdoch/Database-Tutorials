@@ -48,7 +48,7 @@ The Pangenome Present/Absent variations (PAV) data were obtained from ODGI and l
 
 ### 4. Pan-transcriptome data
 
-The Barley Pan-transcriptome database is obtained 5 different tissues of 20 Barley accessions. Moreinformation about the data can be seen from the below publication:
+The Barley Pan-transcriptome database is obtained 5 different tissues of 20 Barley accessions. More information about the data can be seen from the below publication:
 
 [A barley pan-transcriptome reveals layers of genotype-dependent transcriptional complexity](https://www.researchsquare.com/article/rs-3787876/v1)
 
@@ -90,7 +90,7 @@ Information about navigating the genome browsers can be found [here](tools/barle
 * Pangenome variant data from [76 pangenome accessions](/info/pangenome_accessions.md)  
 * Variant data lifted off from Clipper of [22 Australian barley with genome assemblies](/info/AUbarley_accessions.md)  
 
-**Variant tracks - Clipepr reference**
+**Variant tracks - Clipper reference**
 
 * Variant data of [22 Australian barley with genome assemblies](/info/AUbarley_accessions.md)  
 
@@ -124,3 +124,21 @@ For a detailed instruction about using the Barley variant database, please refer
 
 [The Barley variant databases](tools/barley_variantdb.md) contains approximately 54 million SNPs and 3.6 million InDels, from a collection of 21 Balrey accessions.
 These variants were called based on Morex v1 sequence and annotated using Morex v1 annotation.
+
+### 4. Barley Linear Pan-transcriptome database
+
+Detailed instruction about using the [Barley Linear Pan-transcriptome database](tools/barley_panbart20.md)
+
+**a. Features**
+
+* Query for gene expression using Morex V3 gene IDs    
+* Heatmap of gene expression of 5 different tissues from 20 Barley accessions
+
+**b. Data currently available**
+
+The [Barley Linear Pan-transcriptome database](tools/barley_panbart20.md) features gene expression heatmap of 5 different tissues:
+
+| Caryopsis | Coleoptile | Inflorescence | Root | Shoot |
+|-----------|------------|---------------|------|-------|
+
+from 20 barley accessions of the barley pangenome phase 1 collection. List of the barley accession can be seen [here](info/barley_panbart20.md)

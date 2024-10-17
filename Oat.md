@@ -3,8 +3,8 @@ Tutorials for Oat genome browser and variant database
 
 # I. Oat genome browser  
 
-[The Oat genome browsers](jbrowse_oat.md) were built based on [Jbrowse v2](https://jbrowse.org/jb2/) with whole genome sequences and annotations of 24 Oat accessions.
-Information about navigating the genome browsers can be found [here](jbrowse_oat.md)
+[The Oat genome browsers](tools/oat_jbrowse.md) were built based on [Jbrowse v2](https://jbrowse.org/jb2/) with whole genome sequences and annotations of 24 Oat accessions.
+Information about navigating the genome browsers can be found [here](tools/oat_jbrowse.md)
 
 The Oat pan genome browsers currently support:
 * Genes lookup by gene IDs  
@@ -17,7 +17,7 @@ The Oat pan genome browsers currently support:
 
 # II. Oat variant database
 
-[The Oat variant databases](variantdb.md) contains approximately 350 million SNPs and 35 million InDels, from a collection of 564 Oat accessions.
+[The Oat variant databases](tools/oat_variantdb.md) contains approximately 350 million SNPs and 35 million InDels, from a collection of 564 Oat accessions.
 These variants were called based on PepsiCo OT3098 Oat v2 sequence and annotated using PepsiCo OT3098 Oat v2 annotation.
 
 The variant database currently support:
@@ -27,7 +27,7 @@ The variant database currently support:
 
 # III. Oat pan-transcriptome database
 
-[The Oat pan-transcriptome databases](oat_pantranscriptome.md) contains TPMs value of approximately 130,000 genes based on GS7 annotations. The current database include the gene expression data (TPM values) of 24 oat accessions across 6 different tissues. Gene functional annotations, as well as GO and KEGG IDs are also included if available.
+[The Oat pan-transcriptome databases](tools/oat_pantranscriptome.md) contains TPMs value of approximately 130,000 genes based on GS7 annotations. The current database include the gene expression data (TPM values) of 24 oat accessions across 6 different tissues. Gene functional annotations, as well as GO and KEGG IDs are also included if available.
 
 **TO DO:**  
 * Custom sort function based on TPM, origins, etc.

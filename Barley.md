@@ -4,7 +4,7 @@ This section include the Introduction and Tutorials for the Barley pangenome too
 
 ## <span style="color:#023047"> I. Introduction </span>
 
-<div style="text-align: justify;"> Pan-genomic resources are getting more and more popular since they cover a wider range of genetic information compared to single references. At the Western Crop Genetics Alliance, we utilised cutting-edge sequencing technologies to obtain high-quality sequences from a wide range of commercial and wild barley accessions. The sequence data was used to generate high-quality genome assemblies, capture genetic variants and construct reference pan-genome graphs. These information were put together to form an interactive and searchable database, which could be made available to breeders to improve the genetic selection process and deliver improved varieties to growers across Australia.</div>
+Pan-genomic resources are getting more and more popular since they cover a wider range of genetic information compared to single references. At the Western Crop Genetics Alliance, we utilised cutting-edge sequencing technologies to obtain high-quality sequences from a wide range of commercial and wild barley accessions. The sequence data was used to generate high-quality genome assemblies, capture genetic variants and construct reference pan-genome graphs. These information were put together to form an interactive and searchable database, which could be made available to breeders to improve the genetic selection process and deliver improved varieties to growers across Australia.
 
 ## <span style="color:#023047"> II. Current available data </span>
 

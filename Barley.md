@@ -6,6 +6,22 @@ This section include the Introduction and Tutorials for the Barley pangenome too
 
 Pan-genomic resources are getting more and more popular since they cover a wider range of genetic information compared to single references. At the Western Crop Genetics Alliance, we utilised cutting-edge sequencing technologies to obtain high-quality sequences from a wide range of commercial and wild barley accessions. The sequence data was used to generate high-quality genome assemblies, capture genetic variants and construct reference pan-genome graphs. These information were put together to form an interactive and searchable database, which could be made available to breeders to improve the genetic selection process and deliver improved varieties to growers across Australia.
 
+### 1. Project outcomes
+
+The results of the pangenome graph construction, including all identified variants, genome sequences and annotations have been made available through the [Barley Pangenome database](http://database.barleypangenome.com/).
+
+We represent the genetic diversity from 76 different barley accessions in a pangenome graph, visualize the global diversity, and identify sequence variants and prescence/absence (PAV) regions, presented in an interactive interface through Jbrowse2 and Panache PAV browsers, available through our database.
+
+### 2. Project funding
+
+This pan-genome project is funded by the GRDC through these investments:
+* UMU1806-002RTX : Improved Genetic Gain through GRDC Participation in Barley Pan-genome Consortium.  
+
+
+### 3. Project Information
+
+
+
 ## <span style="color:#023047"> II. Current available data </span>
 
 ### 1. Genome assembly and annotation

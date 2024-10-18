@@ -4,6 +4,12 @@
 
 http://database.barleypangenome.com/barley76/
 
+Alternatively, the genome browsers can be accessed using the dropdown list under Barley Tools > Barley Jbrowse
+
+<img src="img/jbrowse/01_barley_jbrowse.png" alt="hi" width="600" class="inline"/>
+
+For detailed information about the data tracks available on the genome browsers, please refer to the [database introduction section](Barley.md#2-barley-genome-browser)
+
 ### 2. First, select the genome from the dropdown list  
 
 <img src="img/jbrowse/02_select_genome_barley.png" alt="hi" width="800" class="inline"/>
@@ -17,7 +23,7 @@ http://database.barleypangenome.com/barley76/
 
 ### 4. Select the tracks using the "Open track selector" button
 
-*Note: included are tracks for converting from different annotation versions (e.g. Morex v1 and v2 to v3)* 
+*Note: included are tracks for converting from different annotation versions (e.g. Morex v1 and v2 to v3)*
 
 <img src="img/jbrowse/05_select_tracks_barley.png" alt="hi" width="800" class="inline"/>
 

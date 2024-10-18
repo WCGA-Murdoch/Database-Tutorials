@@ -22,7 +22,7 @@ For detailed information about the data tracks available on the Barley pan trans
 
 <img src="img/panbart20/02_blast_result.png" alt="hi" width="800" class="inline"/>
 
-### 3. Heatmap is used to show differences in gene express of the query gene
+### 4. Heatmap is used to show differences in gene express of the query gene
 
 **TPM value can be seen by hovering the mouse above the cells**
 

@@ -8,7 +8,7 @@ Alternatively, the genome browsers can be accessed using the dropdown list under
 
 <img src="img/jbrowse/01_barley_jbrowse.png" alt="hi" width="600" class="inline"/>
 
-For detailed information about the data tracks available on the genome browsers, please refer to the [database introduction section](Barley.md#2-barley-genome-browser)
+For detailed information about the data tracks available on the genome browsers, please refer to the [database introduction section](/main/Barley.md#2-barley-genome-browser)
 
 ### 2. First, select the genome from the dropdown list  
 

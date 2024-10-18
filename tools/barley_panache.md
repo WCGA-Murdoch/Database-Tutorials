@@ -4,6 +4,12 @@
 
 http://database.barleypangenome.com/barley_panache/
 
+Alternatively, the genome browsers can be accessed using the dropdown list under Barley Tools > Barley Panache
+
+<img src="img/jbrowse/01_barley_jbrowse.png" alt="hi" width="600" class="inline"/>
+
+For detailed information about the data tracks available on the genome browsers, please refer to the [database introduction section](../Barley.md#3-barley-panache-database)
+
 ### 2. Additional documentation on Panache can be found here  
 
 #### Wiki home: https://github.com/SouthGreenPlatform/panache/wiki
@@ -18,7 +24,7 @@ http://database.barleypangenome.com/barley_panache/
 
 <img src="img/panache/01_gene_positon.png" alt="hi" width="300" class="inline"/>
 
-### 5. Locate the HPT2 gene. 
+### 5. Locate the HPT2 gene.
 
 <img src="img/panache/02_identify_gene.png" alt="hi" width="1200" class="inline"/>
 

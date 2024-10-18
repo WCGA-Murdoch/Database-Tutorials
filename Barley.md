@@ -12,15 +12,10 @@ The results of the pangenome graph construction, including all identified varian
 
 We represent the genetic diversity from 76 different barley accessions in a pangenome graph, visualize the global diversity, and identify sequence variants and prescence/absence (PAV) regions, presented in an interactive interface through Jbrowse2 and Panache PAV browsers, available through our database.
 
-### 2. Project funding
+### 2. Project funding and extra information
 
 This pan-genome project is funded by the GRDC through these investments:
 * UMU1806-002RTX : Improved Genetic Gain through GRDC Participation in Barley Pan-genome Consortium.  
-
-
-### 3. Project Information
-
-
 
 ## <span style="color:#023047"> II. Current available data </span>
 

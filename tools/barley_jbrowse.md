@@ -1,4 +1,4 @@
-# I. Barley genome browser tutorials
+# Barley genome browser tutorials
 
 ### 1. The genome browsers can be accessed using the following link
 

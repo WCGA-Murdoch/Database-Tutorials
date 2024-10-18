@@ -16,9 +16,9 @@ For detailed information about the data tracks available on the Barley pan trans
 
 ### 3. Currently, geneID matching is obtained using BLAST
 
-**HORVU.MOREX.r3.1HG003335 can be confidently match with chr1H03149**
+*HORVU.MOREX.r3.1HG003335 can be confidently matched with chr1H03149*
 
-**Low coverage result may be caused by the non-coding sequences in the PanBaRT20, this will be resolved in the future database**
+*Low coverage result may be caused by the non-coding sequences in the PanBaRT20, this will be resolved in the future database*
 
 <img src="img/panbart20/02_blast_result.png" alt="hi" width="800" class="inline"/>
 

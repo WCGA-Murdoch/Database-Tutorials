@@ -8,7 +8,7 @@ Alternatively, the genome browsers can be accessed using the dropdown list under
 
 <img src="img/jbrowse/01_barley_jbrowse.png" alt="hi" width="600" class="inline"/>
 
-For detailed information about the data tracks available on the genome browsers, please refer to the [database introduction section](../Barley.md#3-barley-panache-database)
+For detailed information about the data tracks available on the panache browsers, please refer to the [database introduction section](../Barley.md#3-barley-panache-database)
 
 ### 2. Additional documentation on Panache can be found here  
 

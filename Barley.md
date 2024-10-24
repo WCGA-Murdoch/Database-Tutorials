@@ -143,7 +143,7 @@ For a detailed instruction about using the Barley variant database, please refer
 
 #### b. Data currently available
 
-[The Barley variant databases](tools/barley_variantdb.md) contains approximately 54 million SNPs and 3.6 million InDels, from a collection of 21 Barley accessions.
+The database contains approximately 54 million SNPs and 3.6 million InDels, from a collection of 21 Barley accessions.
 These variants were called based on Morex v1 sequence and annotated using Morex v1 annotation.
 
 ### 5. Barley Linear Pan-transcriptome database
@@ -157,7 +157,7 @@ Detailed instruction about using the [Barley Linear Pan-transcriptome database](
 
 #### b. Data currently available
 
-The [Barley Linear Pan-transcriptome database](tools/barley_panbart20.md) features gene expression heatmap of 5 different tissues:
+The database features gene expression heatmap of 5 different tissues:
 
 * Caryopsis  
 * Coleoptile  

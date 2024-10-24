@@ -17,7 +17,7 @@ The Oat databases includes:
 
 ### 1. Genome assembly and annotation
 
-Including genome assemblies and annotations from 24 oat accessions. Detailed accession list can be seen [here](/info/oat_pangenome_accessions.md)
+Including genome assemblies and annotations from 24 oat accessions. Detailed accession list can be seen [here](/info/oat_pangenome.md)
 
 ### 2. Genetic variants
 
@@ -40,7 +40,7 @@ For more information about each tool and available data, please refer to the bel
 
 ### 2. Oat genome browser  
 
-For a detailed instruction about using the Barley genome browser, please refer to this link: [The Oat genome browsers](tools/oat_jbrowse.md)
+For a detailed instruction about using the Oat genome browser, please refer to this link: [The Oat genome browsers](tools/oat_jbrowse.md)
 
 The Oat genome browsers were built based on [Jbrowse v2](https://jbrowse.org/jb2/) with whole genome sequences and annotations of 24 Oat accessions from the pangenome collection.
 
@@ -55,20 +55,21 @@ The Oat genome browsers were built based on [Jbrowse v2](https://jbrowse.org/jb2
 
 **Genome assembly tracks**
 
-* Genome assemblies of 24 oat accession from the [pangenome collection](/info/oat_pangenome_accessions.md)   
+* Genome assemblies of 24 oat accession from the [pangenome collection](/info/oat_pangenome.md)   
 
 **Annotations tracks**
 
-* Functional annotations for 24 barley accession of the [pangenome collection](/info/oat_pangenome_accessions.md)  
+* Functional annotations for 24 oat accession of the [pangenome collection](/info/oat_pangenome.md)  
 * Bannister and GS7 lift off to OT3098v2 for quick gene ID convert (reference: OT3098v2 assembly)  
 
 **Variant tracks - OT3098v2 reference**
 
-* Diversity Array Technology Sequence (DArT-seq) for [1,000 barley accessions](https://ftp.ebi.ac.uk/biostudies/fire/E-MTAB-/362/E-MTAB-7362/Files/E-MTAB-7362.sdrf.txt)
+* SNP data with annotations of [564 oat accessions](info/oat_564.md)  
+* InDels data with annotations of [564 oat accessions](info/oat_564.md)  
 
 ## 3. Oat variant database
 
-For a detailed instruction about using the Barley variant database, please refer to this link: [The Oat variant databases](tools/oat_variantdb.md)
+For a detailed instruction about using the BOat variant database, please refer to this link: [The Oat variant databases](tools/oat_variantdb.md)
 
 #### a. Features
 
@@ -78,19 +79,28 @@ For a detailed instruction about using the Barley variant database, please refer
 
 #### b. Data currently available
 
-[The Barley variant databases](tools/barley_variantdb.md) contains approximately 54 million SNPs and 3.6 million InDels, from a collection of 21 Barley accessions.
-These variants were called based on Morex v1 sequence and annotated using Morex v1 annotation.
+The database currently contains approximately 350 million SNPs and 35 million InDels, from a collection of [564 oat accessions](info/oat_564.md)
+The variant was the same data as loaded into the genome browsers. However, the variant database allows user to easily extract genetic information in a region around the variants for primers designing, as well as export result table to csv format.
 
 ### 4. Oat Pan-transcriptome database
 
-Detailed instruction about using the [Barley Linear Pan-transcriptome database](tools/barley_panbart20.md)
+Detailed instruction about using the [Oat Pan-transcriptome database](tools/oat_pantranscriptome.md)
 
 #### a. Features
 
-* Query for gene expression using Morex V3 gene IDs    
-* Heatmap of gene expression of 5 different tissues from 20 Barley accessions
+* Query for gene expression using GS7 or OT3098v2 gene IDs    
+* Heatmap of gene expression of 6 different tissues from the Oat pangenome collection  
+* Gene funtional annotations  
 
 #### b. Data currently available
 
+The database features gene expression heatmap of 6 different tissues:
+
+* Leaf  
+* Embryo  
+* Root  
+* Nod  
+* Panicle  
+* Caryopsis  
 
 ## <span style="color:#023047"> IV. Work in progress </span>

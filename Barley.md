@@ -38,7 +38,7 @@ Genetic variants including InDels and SNPs were obtained from a wide range of da
 
 #### a. 895 barley accessions from a world-wide collection
 
-Detailed accession list can be seen [here](/info/barley_1000_general.md).
+Detailed accession list can be seen [here](/info/barley_895_general.md).
 
 Genetic variants from this dataset:
 
@@ -105,8 +105,8 @@ Information about navigating the genome browsers can be found [here](tools/barle
 
 **Variant tracks - Morex V3 reference**
 
-* Diversity Array Technology Sequence (DArT-seq) for [895 barley accessions](/info/barley_1000_general.md)
-* Variants from Low-coverage whole genome sequence of [895 barley accessions](/info/barley_1000_targeted.md)  
+* Diversity Array Technology Sequence (DArT-seq) for [895 barley accessions](/info/barley_895_general.md)
+* Variants from Low-coverage whole genome sequence of [895 barley accessions](/info/barley_895_targeted.md)  
 * Variant data from [90 barley accessions related to Australian Barley germplasm](info/AU_90_variant.md)  
 * Pangenome variant data from [76 pangenome accessions](/info/pangenome_accessions.md)  
 * Variant data lifted off from Clipper of [22 Australian barley with genome assemblies](/info/AUbarley_accessions.md)  

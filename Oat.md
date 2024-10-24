@@ -4,8 +4,8 @@ This section include the Introduction and Tutorials for the Oat pangenome tools 
 ## <span style="color:#023047"> I. Introduction </span>
 
 The Oat databases includes:  
-* Genome browsers with high quality assemblies and annotations of 26 Oat accessions.  
-* Pan-transcriptome data of 26 Oat accessions.  
+* Genome browsers with high quality assemblies and annotations of 24 Oat accessions.  
+* Pan-transcriptome data of 24 Oat accessions.  
 
 ### 1. Project outcomes
 
@@ -17,17 +17,17 @@ The Oat databases includes:
 
 ### 1. Genome assembly and annotation
 
-Including genome assemblies and annotations from 26 oat accessions. Detailed accession list can be seen [here](/info/oat_pangenome_accessions.md)
+Including genome assemblies and annotations from 24 oat accessions. Detailed accession list can be seen [here](/info/oat_pangenome_accessions.md)
 
 ### 2. Genetic variants
 
 Genetic variants including InDels and SNPs were obtained from a wide range of datasets, including:  
-* High coverage - whole genome sequence of [564 oat accessions]() from a world-wide collection.  
-* High coverage - whole genome sequence of [90 oat accessions]() highly related to Australian oat breeding programs.  
+* High coverage - whole genome sequence of [564 oat accessions](info/oat_564.md) from a world-wide collection.  
+* High coverage - whole genome sequence of [90 oat accessions](info/oat_pangenome.md) highly related to Australian oat breeding programs.  
 
 ### 3. Pan-transcriptome data
 
-The Oat Pan-transcriptome database is obtained 6 different tissues of 26 Oat accessions from the pangenome collection.  
+The Oat Pan-transcriptome database is obtained 6 different tissues of 24 Oat accessions from the pangenome collection.  
 
 
 ## <span style="color:#023047"> III. Tools overview </span>
@@ -42,7 +42,7 @@ For more information about each tool and available data, please refer to the bel
 
 For a detailed instruction about using the Barley genome browser, please refer to this link: [The Oat genome browsers](tools/oat_jbrowse.md)
 
-The Oat genome browsers were built based on [Jbrowse v2](https://jbrowse.org/jb2/) with whole genome sequences and annotations of 26 Oat accessions from the pangenome collection.
+The Oat genome browsers were built based on [Jbrowse v2](https://jbrowse.org/jb2/) with whole genome sequences and annotations of 24 Oat accessions from the pangenome collection.
 
 #### a. Features
 
@@ -55,11 +55,11 @@ The Oat genome browsers were built based on [Jbrowse v2](https://jbrowse.org/jb2
 
 **Genome assembly tracks**
 
-* Genome assemblies of 26 oat accession from the [pangenome collection](/info/oat_pangenome_accessions.md)   
+* Genome assemblies of 24 oat accession from the [pangenome collection](/info/oat_pangenome_accessions.md)   
 
 **Annotations tracks**
 
-* Functional annotations for 26 barley accession of the [pangenome collection](/info/oat_pangenome_accessions.md)  
+* Functional annotations for 24 barley accession of the [pangenome collection](/info/oat_pangenome_accessions.md)  
 * Bannister and GS7 lift off to OT3098v2 for quick gene ID convert (reference: OT3098v2 assembly)  
 
 **Variant tracks - OT3098v2 reference**

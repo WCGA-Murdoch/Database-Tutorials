@@ -32,7 +32,7 @@ Including genome assemblies and annotations from 76 barley accessions. Detailed 
 
 ##### b. Australian Barley assemblies
 
-Including genome assemblies and annotations from 22 Australian Barleys. Detailed accession list can be seen in [Austrlian barley accessions](/info/AUbarley_accessions.md)
+Including genome assemblies and annotations from 22 Australian Barleys. Detailed accession list can be seen in [Australian barley accessions](/info/AUbarley_accessions.md)
 
 ### 2. Genetic variants
 
@@ -56,7 +56,7 @@ Variant data from 76 barley accessions from the pan-genome graph, with about 10 
 
 #### c. Australian Barley collection
 
-Variant data from 90 barley accessions related to Australian Barley germplasm. Detailed accession list can be seen in the list [Australian high coverage sequence](info/AU_90_variant.md)
+Variant data from 90 barley accessions related to Australian Barley germplasm. Detailed accession list can be seen in the list [Australian high coverage accessions](info/AU_90_variant.md)
 
 ### 3. Pan-genomic Present/Absent variations
 
@@ -109,7 +109,7 @@ Information about navigating the genome browsers can be found at [Genome browser
 
 * Diversity Array Technology Sequence (DArT-seq) for [895 barley accessions](/info/barley_895_general.md)
 * Variants from Low-coverage whole genome sequence of [895 barley accessions](/info/barley_895_targeted.md)  
-* Variant data from [90 barley accessions related to Australian Barley germplasm](info/AU_90_variant.md)  
+* Variant data from [Australian high coverage accessions](info/AU_90_variant.md) with 90 barley accessions related to Australian Barley germplasm  
 * Pangenome variant data from [76 pangenome accessions](/info/pangenome_accessions.md)  
 * Variant data lifted off from Clipper of [22 Australian barley with genome assemblies](/info/AUbarley_accessions.md)  
 

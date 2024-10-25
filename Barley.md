@@ -28,11 +28,11 @@ This pan-genome project is funded by the GRDC through these investments:
 
 #### a. Barley Pangenome phase 2 assemblies
 
-Including genome assemblies and annotations from 76 barley accessions. Detailed accession list can be seen [here](/info/pangenome_accessions.md)
+Including genome assemblies and annotations from 76 barley accessions. Detailed accession list can be seen in [Pangenome accessions](/info/pangenome_accessions.md)
 
 ##### b. Australian Barley assemblies
 
-Including genome assemblies and annotations from 22 Australian Barleys. Detailed accession list can be seen [here](/info/AUbarley_accessions.md)
+Including genome assemblies and annotations from 22 Australian Barleys. Detailed accession list can be seen in [Austrlian barley accessions](/info/AUbarley_accessions.md)
 
 ### 2. Genetic variants
 
@@ -40,7 +40,7 @@ Genetic variants including InDels and SNPs were obtained from a wide range of da
 
 #### a. 895 barley accessions from a world-wide collection
 
-Detailed accession list can be seen [here](/info/barley_895_general.md).
+Detailed accession list can be seen in the list [895 barley accessions](/info/barley_895_general.md).
 
 Genetic variants from this dataset:
 
@@ -52,15 +52,15 @@ Genetic variants from this dataset:
 
 #### b. Pan-genome phase 2 collection
 
-Variant data from 76 barley accessions from the pan-genome graph, with about 10 million InDels and over 80 million SNPs. Detailed accession list can be seen [here](/info/pangenome_accessions.md)
+Variant data from 76 barley accessions from the pan-genome graph, with about 10 million InDels and over 80 million SNPs. Detailed accession list can be seen in [Pangenome accessions](/info/pangenome_accessions.md)
 
 #### c. Australian Barley collection
 
-Variant data from 90 barley accessions related to Australian Barley germplasm. Detailed accession list can be seen [here](info/AU_90_variant.md)
+Variant data from 90 barley accessions related to Australian Barley germplasm. Detailed accession list can be seen in the list [Australian high coverage sequence](info/AU_90_variant.md)
 
 ### 3. Pan-genomic Present/Absent variations
 
-The Pangenome Present/Absent variations (PAV) data were obtained from ODGI and loaded into Panache for interactive browsing. Details about Panache can be located [here](https://github.com/SouthGreenPlatform/panache)
+The Pangenome Present/Absent variations (PAV) data were obtained from ODGI and loaded into Panache for interactive browsing. Details about Panache can be located in [Panache Repository](https://github.com/SouthGreenPlatform/panache)
 
 ### 4. Pan-transcriptome data
 
@@ -72,8 +72,8 @@ The Barley Pan-transcriptome database is obtained 5 different tissues of 20 Barl
 
 ### 1. Getting start
 
-The WCGA barley pangenome database can be accessed using this [link](http://database.barleypangenome.com)  
-To start using the WCGA barley pangenome database, you need to register an account. Please refer to this [link](tools/registration.md) for information about the registration process.  
+The WCGA barley pangenome database can be accessed using this direct link [http://database.barleypangenome.com](http://database.barleypangenome.com)  
+To start using the WCGA barley pangenome database, you need to register an account. Please refer to the [Registration tutorials](tools/registration.md) for information about the registration process.  
 For more information about each tool and available data, please refer to the below sections.  
 
 ### 2. Barley genome browser  
@@ -82,7 +82,7 @@ For a detailed instruction about using the Barley genome browser, please refer t
 
 The Barley genome browsers were built based on [Jbrowse v2](https://jbrowse.org/jb2/) with whole genome sequences and annotations of 76 Barley accessions in the Barley pangenome phase 2 collection and 22 accessions in the Australian barley collection.
 
-Information about navigating the genome browsers can be found [here](tools/barley_jbrowse.md)
+Information about navigating the genome browsers can be found at [Genome browser tutorials](tools/barley_jbrowse.md)
 
 #### a. Features
 
@@ -119,7 +119,7 @@ Information about navigating the genome browsers can be found [here](tools/barle
 
 ### 3. Barley panache database
 
-For a detailed instruction about using the Barley panache database, please refer to this link: [The Barley panache browsers](tools/barley_panache.md)  
+For a detailed instruction about using the Barley panache database, please refer to this link: [The Barley panache browsers tutorials](tools/barley_panache.md)  
 
 The Barley panache browsers was built from the barley pangenome graph (generated from [PGGB](https://github.com/pangenome/pggb) and [Panache](https://github.com/SouthGreenPlatform/panache) of 76 Barley accessions.
 
@@ -167,6 +167,6 @@ The database features gene expression heatmap of 5 different tissues:
 * Root  
 * Shoot  
 
-from 20 barley accessions of the barley pangenome phase 1 collection. List of the barley accession can be seen [here](info/barley_panbart20.md)
+from 20 barley accessions of the barley pangenome phase 1 collection. List of the barley accession can be seen in the [PanBaRT20 accessions](info/barley_panbart20.md)
 
 ## <span style="color:#023047"> IV. Work in progress </span>

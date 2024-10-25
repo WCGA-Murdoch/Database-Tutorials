@@ -8,6 +8,8 @@ The Barley databases includes:
 * Genome browsers with high quality assemblies and annotations of nearly 100 barley accessions.  
 * Pan-genome present/absent variation explorer (Panache) of 76 barley accessions.  
 * Pan-transcriptome data of 20 barley accessions.  
+* Genetic variant datasets from a wide range of barley collections
+For more information, please see [II. Current available data](Barley.md#-ii-current-available-data-)  
 
 ### 1. Project outcomes
 

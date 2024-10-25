@@ -13,6 +13,8 @@ The Oat databases includes:
 
 ### 2. Project funding and extra information
 
+
+
 ## <span style="color:#023047"> II. Current available data </span>
 
 ### 1. Genome assembly and annotation
@@ -23,7 +25,7 @@ Including genome assemblies and annotations from 24 oat accessions. Detailed acc
 
 Genetic variants including InDels and SNPs were obtained from a wide range of datasets, including:  
 * High coverage - whole genome sequence of [564 oat accessions](info/oat_564.md) from a world-wide collection.  
-* High coverage - whole genome sequence of [90 oat accessions](info/oat_pangenome.md) highly related to Australian oat breeding programs.  
+* High coverage - whole genome sequence of [80 oat accessions](info/oat_80.md) highly related to Australian oat breeding programs.  
 
 ### 3. Pan-transcriptome data
 

@@ -9,7 +9,7 @@ In recent years, pan-genomic resources are getting more and more popular since t
 
 ### 1. Barley databases
 
-The Barley databases includes:  
+Key features:   
 * Genome browsers with high quality assemblies and annotations of nearly 100 barley accessions.  
 * Pan-genome presence/absence variation explorer (Panache) of 76 barley accessions.  
 * Pan-transcriptome data of 20 barley accessions.  
@@ -17,7 +17,7 @@ The Barley databases includes:
 
 ### 2. Oat databases
 
-The Oat databases includes:  
+Key features:    
 * Genome browsers with high quality assemblies and annotations of 26 Oat accessions.  
 * Pan-transcriptome data of 26 Oat accessions.  
 * Genetic variant database of 564 Oat accessions  

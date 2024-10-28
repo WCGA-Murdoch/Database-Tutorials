@@ -4,6 +4,12 @@
 
 http://database.oatpangenome.com/jbrowse/
 
+Alternatively, the genome browsers can be accessed using the dropdown list under Oat Tools > Oat Jbrowse
+
+<img src="img/jbrowse/01_oat_jbrowse.png" alt="hi" width="600" class="inline"/>
+
+For detailed information about the data tracks available on the genome browsers, please refer to the [database introduction section](../Oat.md#2-oat-genome-browser)
+
 ### 2. First, select the genome from the dropdown list  
 
 <img src="img/jbrowse/02_select_genome.png" alt="hi" width="800" class="inline"/>

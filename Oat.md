@@ -19,13 +19,13 @@ The Oat databases includes:
 
 ### 1. Genome assembly and annotation
 
-Including genome assemblies and annotations from 24 oat accessions. Detailed accession list can be seen [here](/info/oat_pangenome.md)
+Including genome assemblies and annotations from 24 oat accessions. Detailed accession list can be seen in [Oat pangenome accessions](/info/oat_pangenome.md)
 
 ### 2. Genetic variants
 
 Genetic variants including InDels and SNPs were obtained from a wide range of datasets, including:  
 * High coverage - whole genome sequence of [564 oat accessions](info/oat_564.md) from a world-wide collection.  
-* High coverage - whole genome sequence of [80 oat accessions](info/oat_80.md) highly related to Australian oat breeding programs.  
+
 
 ### 3. Pan-transcriptome data
 
@@ -36,8 +36,8 @@ The Oat Pan-transcriptome database is obtained 6 different tissues of 24 Oat acc
 
 ### 1. Getting start
 
-The WCGA Oat pangenome database can be accessed using this [link](http://database.oatpangenome.com)  
-To start using the WCGA Oat pangenome database, you need to register an account. Please refer to this [link](tools/registration.md) for information about the registration process.  
+The WCGA Oat pangenome database can be accessed using this direct link [http://database.oatpangenome.com](http://database.oatpangenome.com)  
+To start using the WCGA Oat pangenome database, you need to register an account. Please refer to the [Registration tutorials](tools/registration.md) for information about the registration process.  
 For more information about each tool and available data, please refer to the below sections.  
 
 ### 2. Oat genome browser  
@@ -57,11 +57,11 @@ The Oat genome browsers were built based on [Jbrowse v2](https://jbrowse.org/jb2
 
 **Genome assembly tracks**
 
-* Genome assemblies of 24 oat accession from the [pangenome collection](/info/oat_pangenome.md)   
+* Genome assemblies of 24 oat accession from the [Oat pangenome accessions](/info/oat_pangenome.md)   
 
 **Annotations tracks**
 
-* Functional annotations for 24 oat accession of the [pangenome collection](/info/oat_pangenome.md)  
+* Functional annotations for 24 oat accession of the [Oat pangenome accessions](/info/oat_pangenome.md)  
 * Bannister and GS7 lift off to OT3098v2 for quick gene ID convert (reference: OT3098v2 assembly)  
 
 **Variant tracks - OT3098v2 reference**
@@ -106,3 +106,8 @@ The database features gene expression heatmap of 6 different tissues:
 * Caryopsis  
 
 ## <span style="color:#023047"> IV. Work in progress </span>
+
+### 1. Oat genome browser  
+
+* High coverage - whole genome sequence of [80 oat accessions](info/oat_80.md) highly related to Australian oat breeding programs.  
+* Annotation lift of of Bilby to OT3098v2 for gene ID matching  

@@ -4,7 +4,13 @@
 
 http://database.oatpangenome.com/oat_transcriptome/
 
-**If navigating from the home page, it can be accessed through Oat Tools > Pan Transciptome** 
+Alternatively, the genome browsers can be accessed using the dropdown list under Oat Tools > Pan Transciptome
+
+<img src="img/jbrowse/01_oat_jbrowse.png" alt="hi" width="600" class="inline"/>
+
+For detailed information about the data tracks available on the Oat pan transcriptome browsers, please refer to the [database introduction section](../Oat.md#4-oat-pan-transcriptome-database)
+
+**If navigating from the home page, it can be accessed through Oat Tools > Pan Transciptome**
 
 ### 2. First, input the GS7 gene ID to the search bar  
 

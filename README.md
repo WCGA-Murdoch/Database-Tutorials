@@ -1,13 +1,30 @@
-# This page contains information about the Barley and Oat databases
+#### This page contains information about the Barley and Oat databases
 
-## 1. General information
+## I. General information
 
-### a. Barley databases
+Barley and oats are the main grains grown in Western Australia. Western Australia produces
+high-quality milling oats, and malting barley and is home to some of Australia’s largest processors of oat barley products for export. Australian agriculture will be significantly affected by climate change and it is imperative to breed new crops and varieties in shorter cycles.
 
-[General information about the Barley databases](Barley.md)
+In recent years, pan-genomic resources are getting more and more popular since they cover a wider range of genetic information compared to single references. At the Western Crop Genestics Alliance, we utilised cutting-edge sequencing technologies to obtain high-quality sequences from a wide range of commercial and wild accessions of barley and oats. The sequence data was used to generate high-quality genome assemblies, capture genetic variants and construct reference pan-genome graphs. These information were put together to form an interactive and searchable database, which could be made available to breeders to improve the genetic selection process and deliver improved varieties to growers across Australia.
 
-### b. Oat databases
+### 1. Barley databases
 
-[General information about the Oat databases](Oat.md)
+Key features:   
+* Genome browsers with high quality assemblies and annotations of nearly 100 barley accessions.  
+* Pan-genome presence/absence variation explorer (Panache) of 76 barley accessions.  
+* Pan-transcriptome data of 20 barley accessions.  
+[More information about the Barley databases](Barley.md)  
 
-## 2. How to contribute
+### 2. Oat databases
+
+Key features:    
+* Genome browsers with high quality assemblies and annotations of 26 Oat accessions.  
+* Pan-transcriptome data of 26 Oat accessions.  
+* Genetic variant database of 564 Oat accessions  
+[More information about the Oat databases](Oat.md)  
+
+## II. Contributing
+
+Contributions are always welcome!  
+For bug reporting, please use the Github's issue page or contact [Viet Dang](mailto:viet.dang@murdoch.edu.au)  
+For any questions and suggestions, please contact [Viet Dang](mailto:viet.dang@murdoch.edu.au) or [Penghao Wang](mailto:p.wang@murdoch.edu.au)  

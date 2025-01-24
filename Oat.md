@@ -5,15 +5,17 @@ This section include the Introduction and Tutorials for the Oat pangenome tools 
 
 The Oat databases includes:  
 * Genome browsers with high quality assemblies and annotations of 24 Oat accessions.  
+* Genetic variant data including SNPs and InDels from a world-wide Oat collection.  
 * Pan-transcriptome data of 24 Oat accessions.  
 
 ### 1. Project outcomes
 
-
+This project delivered high quality assembly and annotations of 24 Oat accessions from a wide range of varieties, including the cultivars strongly related to Australian oat breeding programs: Bannister, Bilby and Williams. High quality pan-transcriptome data of these accessions could also provide insight and materials for other research and breeding purposes. Besides that, the genetic variant data obtained from whole-genome sequences from a world-wide Oat collection provided a more comprehensive genetic dataset that can be used for marker-trait association analysis and marker-assisted breeding.  
 
 ### 2. Project funding and extra information
 
-
+This pan-genome project is funded by the GRDC through these investments:
+* UMU2003-002RTX - Oat genomic resources for breeders and pre-breeders.  
 
 ## <span style="color:#023047"> II. Current available data </span>
 

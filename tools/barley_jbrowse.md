@@ -33,7 +33,7 @@ For detailed information about the data tracks available on the genome browsers,
 
 <img src="img/jbrowse/06_region_search_barley.png" alt="hi" width="800" class="inline"/>
 
-**Or search using Gene ID (some time it can take a few seconds for the gene IDs to load)**  
+**Or search using Gene ID (sometimes it can take a few seconds for the gene IDs to load)**  
 
 <img src="img/jbrowse/07_geneid_search_barley.png" alt="hi" width="800" class="inline"/>
 
